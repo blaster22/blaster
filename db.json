@@ -1,1 +1,16 @@
+"IMP_ORDINI": [
+{
+"ORD_ORDINE": "WEB001001",
+"ORD_DES": "001001 Modificato da WEB",
+"ORD_TIPOOP": "P"
+},
+],
 
+"IMP_ORDINI_RIGHE": [
+{
+"RIG_ORDINE": "WEB001001",
+"RIG_ARTICOLO": "ITEM1001",
+"RIG_QTAR": "1,000"
+},
+]
+}
